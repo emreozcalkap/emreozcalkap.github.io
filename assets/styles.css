@@ -1,0 +1,480 @@
+*
+{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+#container
+{
+    background-color:black;
+    
+    height: 6260px;
+}
+
+#imageicon
+{
+    border-radius: 40px;
+    position: absolute;
+    left: 1008px;
+    top: 28px;
+}
+
+#pname
+{
+    font-family: Roboto;
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    top: 34px;
+    left: 1048px;
+}
+
+#logo
+{
+position: absolute;
+left: 165px;
+top: 34px;
+}
+
+
+
+#isareticon
+{
+    position: absolute;
+    left: 1129px;
+    top: 42.06px;
+}
+
+#icon
+{
+    position: absolute;
+    left: 1187px;
+    top: 32px;
+}
+
+#bildirimicon
+{
+    position: absolute;
+    left: 1251px;
+    top: 32px;
+}
+
+h1
+{
+    color: white;
+    font-size: 60px;
+    font-family: Montserrat;
+    position:absolute;
+    left: 165px;
+    top: 208.75px;
+}
+#p1
+{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    left: 165px;
+    top: 364.75px;
+}
+
+.imgillustration
+{
+    position: absolute;
+    left: 705px;
+    top: 157.5px;
+}
+.button
+{
+    background-color:rgba(220, 53, 69, 1);
+    width: 124px;
+    height: 32px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    font-size: 12px;
+    font-family: Montserrat;
+    position: absolute;
+    left: 999px;
+    top: 615px;
+    
+  
+}
+
+#p2
+{
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:rgba(128, 126, 126, 1);
+    position: absolute;
+    left: 165px;
+    top: 851.5px;
+}
+
+.imglogo
+{
+    position: absolute;
+    left: 165.03px;
+    top: 899.5px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 72.4px;
+    
+}
+
+h6
+{
+    font-size: 20px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    left: 165.5px;
+    top: 1106.5px;
+    
+}
+
+h3
+{
+    font-size: 40px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    left: 165px;
+    top: 1152.5px;
+}
+
+.imgicerik
+{
+    position: absolute;
+    top: 1320.5px;
+    left: 165px;
+}
+h5
+{
+    font-size: 20px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    left: 165px;
+    top: 2014.5px;
+    
+}
+h4
+{
+    font-size: 40px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    left: 165px;
+    top: 2060.5px;
+}
+
+#p3
+{
+    font-size: 20px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+    position: absolute;
+    left: 165px;
+    top: 2176.5px;
+}
+
+.imgicerik2
+{
+    position: absolute;
+    left: 735px;
+    top: 1925.5px;
+}
+
+.h6baslik
+{
+    font-size: 20px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    top: 2677.5px;
+    left: 647px;
+    
+}
+.h3baslik
+{
+    font-size: 40px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    left: 397px;
+    top: 2723.5px;
+}
+.imgicerik4
+{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 2819.5px;
+}
+
+.h6baslik2
+{
+    font-size: 20px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    top: 3683.5px;
+    left: 640px;
+}
+.h3baslik2
+{
+    font-size: 40px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    left: 397px;
+    top: 3729.5px;
+    text-align: center;
+
+}
+
+.box
+{
+    background-color:rgba(18, 18, 18, 1);
+    width: 354px;
+    height: 388px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+    
+
+}
+#box2
+{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    gap: 24px;
+    left: 165px;
+    top: 3873.5px;
+    
+    
+    
+}
+
+.h5baslik
+{
+    font-size: 24px;
+    color: white;
+    font-family: Montserrat;
+    position: relative;
+    top: 15px;
+    left: auto;
+    
+    
+   
+    
+}
+
+.p4
+{
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:white;
+    text-align: center;
+    
+    
+}
+
+.h2buybaslik
+{
+    font-size: 60px;
+    font-family: Montserrat;
+    text-align: center;
+    color:white;
+    margin-top: 16px;
+    
+
+
+}
+.buttonsub
+{
+    background-color:rgba(220, 53, 69, 1);
+    width: 210px;
+    height: 50px;
+    border-radius: 3px;
+    display: flex;
+    justify-content: center;
+    font-size: 23px;
+    font-family: Montserrat;
+    margin-bottom: 40px;
+  
+   
+}
+a
+{
+    text-decoration: none;
+    color: white;
+  
+    
+}
+
+.h4baslik
+{
+    font-size: 30px;
+    color: white;
+    font-family: Montserrat;
+    position: absolute;
+    left: 165px;
+    top: 4501.5px;
+}
+
+.h6baslik3
+{
+    font-size: 20px;
+    font-family: Montserrat;
+    color: white;
+    position: absolute;
+    top: 4590.5px;
+
+    
+
+}
+.h6baslik4
+{
+    font-size: 20px;
+    font-family: Montserrat;
+    color: white;
+    position: absolute;
+    top: 4667.5px;
+
+    
+
+}
+
+.h6baslik5
+{
+    font-size: 20px;
+    font-family: Montserrat;
+    color: white;
+    position: absolute;
+    top: 4745.5px;
+
+    
+
+}
+
+.p5
+{
+    color:white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    position: absolute;
+    top: 4790.5px;
+    left: 165px;
+
+}
+.h6baslik6
+{
+    font-size: 20px;
+    font-family: Montserrat;
+    color: white;
+    position: absolute;
+    top: 5006.5px;
+
+    
+
+}
+.h6baslik7
+{
+    font-size: 20px;
+    font-family: Montserrat;
+    color: white;
+    position: absolute;
+    top: 5083.5px;
+
+    
+
+}
+
+.h6baslik8
+{
+    font-size: 20px;
+    font-family: Montserrat;
+    color: white;
+    position: absolute;
+    top: 5160.5px;
+
+
+}
+.box3
+{
+    width: 1110px;
+    height: 349px;
+    background-color:rgba(18, 18, 18, 1);
+    border-radius: 10px;
+    position: absolute;
+    top: 5398.5px;
+    left: 165px;
+}
+
+.h3baslik3
+{
+    font-size: 40px;
+    font-family: Montserrat;
+    color:black;
+    position: absolute;
+    top: 83px;
+    color: white;
+}
+.buttonsub2
+{
+    background-color:rgba(220, 53, 69, 1);
+    width: 210px;
+    height: 50px;
+    border-radius: 3px;
+    position: absolute;
+    top: 203px;
+    left: 165px;
+    font-size: 23px;
+    font-family: Montserrat;
+    display: flex;
+    justify-content: center;
+    outline: 0;
+    
+}
+.imgicerik1
+{
+    position: absolute;
+    left: 680px;
+    top: 36px;
+}
+
+.box4
+{
+    width: 1519px;
+    height: 369px;
+    background-color:rgba(18, 18, 18, 1);
+    position: absolute;
+    top: 5890px;
+    display: flex;
+    flex-direction: row;
+   
+    
+  
+}
+
+.sutunlink
+{   
+ 
+    color: white;
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    list-style-type: none;
+   
+
+}
+.imgicon
+{
+    position: absolute;
+    left: 165px;
+    top: 6191.5px;
+}
+
